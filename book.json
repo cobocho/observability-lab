@@ -1,0 +1,12 @@
+{
+  "title": "Observability Lab",
+  "description": "Observability(관측성) 학습을 위한 실습 프로젝트",
+  "author": "Kim Min-gyu",
+  "language": "ko",
+  "gitbook": ">=3.0.0",
+  "plugins": ["mermaid-gb3"],
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  }
+}
