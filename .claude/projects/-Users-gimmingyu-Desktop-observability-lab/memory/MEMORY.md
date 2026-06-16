@@ -1,3 +1,4 @@
 - [Mermaid diagrams](feedback_mermaid.md) — always use mermaid for diagrams/architecture in learning materials
 - [10 min read time](feedback_reading_time.md) — target ~3000 words per chapter for 10 min reading time
 - [Prefers TypeScript](user_typescript.md) — all code examples in TypeScript, not Go
+- [Lab style like dev books](feedback_lab_style.md) — hands-on labs written generically, not tied to repo paths
