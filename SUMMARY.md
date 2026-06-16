@@ -17,6 +17,10 @@
 ## Part 3. Prometheus
 
 * [7장 Prometheus 아키텍처](part3/7.Prometheus-아키텍처.md)
+* [8장 Service Discovery](part3/8.Service-Discovery.md)
+* [9장 Relabeling](part3/9.Relabeling.md)
+* [10장 TSDB 내부 구조](part3/10.TSDB-내부-구조.md)
+* [11장 확장 전략](part3/11.확장-전략.md)
 
 ## Part 4. PromQL
 
